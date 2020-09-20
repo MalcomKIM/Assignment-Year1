@@ -1,0 +1,2 @@
+book,ISBN=1234567890,title=DM,author=James Smith,category=IT,total copies=18,available copies=18
+book,ISBN=1234567891,title=DM,author=David Smith,category=Digital Art,total copies=19,available copies=16

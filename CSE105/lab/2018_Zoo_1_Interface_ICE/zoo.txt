@@ -1,0 +1,3 @@
+ImageDisplay,myX=1,myY=1,myWidth=1,myHeight=1,myPath=res\cow150.png
+ImageDisplay,myX=100,myY=100,myWidth=100,myHeight=100,myPath=res\duck.png
+ImageDisplay,myX=100,myY=1,myWidth=100,myHeight=10,myPath=res\pig.png

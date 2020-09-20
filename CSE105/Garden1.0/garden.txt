@@ -1,0 +1,4 @@
+ImageDisplay,myX=500,myY=20,myWidth=200,myHeight=200,myPath=res\2.jpg
+ImageDisplay,myX=20,myY=300,myWidth=200,myHeight=200,myPath=res\3.jpg
+ImageDisplay,myX=500,myY=300,myWidth=200,myHeight=200,myPath=res\4.jpg
+ImageDisplay,myX=20,myY=20,myWidth=200,myHeight=200,myPath=res\1.jpg

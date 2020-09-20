@@ -1,0 +1,108 @@
+﻿  Assembly2.cpp
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(57): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(59): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(59): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(59): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(60): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(60): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(60): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(61): error C2065: 'call': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(61): error C2146: syntax error: missing ';' before identifier 'printf'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(61): warning C4551: function call missing argument list
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(62): error C2065: 'add': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(62): error C2146: syntax error: missing ';' before identifier 'esp'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(62): error C2065: 'esp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(64): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(64): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(64): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(65): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(65): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(65): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(66): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(66): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(66): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(67): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(67): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(67): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(68): error C2065: 'call': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(68): error C2146: syntax error: missing ';' before identifier 'scanf_s'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(68): warning C4551: function call missing argument list
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(69): error C2065: 'add': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(69): error C2146: syntax error: missing ';' before identifier 'esp'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(69): error C2065: 'esp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(71): error C2065: 'mov': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(71): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(71): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(72): error C2065: 'cmp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(72): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(72): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(73): error C2065: 'jl': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(73): error C2146: syntax error: missing ';' before identifier 'looptimes'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(73): error C2065: 'looptimes': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(74): error C2065: 'cmp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(74): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(74): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(75): error C2065: 'jg': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(75): error C2146: syntax error: missing ';' before identifier 'looptimes'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(75): error C2065: 'looptimes': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(77): error C2065: 'mov': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(77): error C2146: syntax error: missing ';' before identifier 'ecx'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(77): error C2065: 'ecx': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(79): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(79): error C2146: syntax error: missing ';' before identifier 'edi'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(79): error C2065: 'edi': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(82): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(82): error C2146: syntax error: missing ';' before identifier 'ecx'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(82): error C2065: 'ecx': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(83): error C2065: 'add': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(83): error C2146: syntax error: missing ';' before identifier 'ID_address'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(84): error C2065: 'mov': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(84): error C2146: syntax error: missing ';' before identifier 'esi'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(84): error C2065: 'esi': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(86): error C2065: 'jmp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(86): error C2146: syntax error: missing ';' before identifier 'input_student_ID'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(86): error C2065: 'input_student_ID': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(89): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(89): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(89): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(90): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(90): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(90): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(91): error C2065: 'call': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(91): error C2146: syntax error: missing ';' before identifier 'printf'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(91): warning C4551: function call missing argument list
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(92): error C2065: 'add': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(92): error C2146: syntax error: missing ';' before identifier 'esp'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(92): error C2065: 'esp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(94): error C2065: 'inc': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(94): error C2146: syntax error: missing ';' before identifier 'current_loop'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(96): error C2065: 'pop': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(96): error C2146: syntax error: missing ';' before identifier 'ecx'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(96): error C2065: 'ecx': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(97): error C2065: 'loop': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(97): error C2146: syntax error: missing ';' before identifier 'input_loop'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(97): error C2065: 'input_loop': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(99): error C2065: 'jmp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(99): error C2146: syntax error: missing ';' before identifier 'sort'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(99): error C2065: 'sort': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(104): error C2065: 'mov': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(104): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(104): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(105): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(105): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(105): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(106): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(106): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(106): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(107): error C2065: 'push': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(107): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(107): error C2065: 'eax': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(108): error C2065: 'call': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(108): error C2146: syntax error: missing ';' before identifier 'printf'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(108): warning C4551: function call missing argument list
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(109): error C2065: 'add': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(109): error C2146: syntax error: missing ';' before identifier 'esp'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(109): error C2065: 'esp': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(111): error C2065: 'lea': undeclared identifier
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(111): error C2146: syntax error: missing ';' before identifier 'eax'
+d:\y2s1\cse101\assembly2\assembly2\assembly2\assembly2.cpp(111): fatal error C1003: error count exceeds 100; stopping compilation

@@ -1,0 +1,11 @@
+ImageDisplay,myX=100,myY=100,myWidth=20,myHeight=100,myPath=res\1.jpg,myPattern=1
+ImageDisplay,myX=120,myY=100,myWidth=20,myHeight=100,myPath=res\2.jpg,myPattern=1
+ImageDisplay,myX=140,myY=100,myWidth=20,myHeight=100,myPath=res\3.jpg,myPattern=1
+ImageDisplay,myX=160,myY=100,myWidth=20,myHeight=100,myPath=res\4.jpg,myPattern=1
+ImageDisplay,myX=180,myY=100,myWidth=20,myHeight=100,myPath=res\1.jpg,myPattern=1
+ImageDisplay,myX=200,myY=100,myWidth=100,myHeight=20,myPath=res\1.jpg,myPattern=2
+ImageDisplay,myX=200,myY=120,myWidth=100,myHeight=20,myPath=res\2.jpg,myPattern=2
+ImageDisplay,myX=200,myY=140,myWidth=100,myHeight=20,myPath=res\3.jpg,myPattern=2
+ImageDisplay,myX=200,myY=160,myWidth=100,myHeight=20,myPath=res\4.jpg,myPattern=2
+ImageDisplay,myX=200,myY=180,myWidth=100,myHeight=20,myPath=res\1.jpg,myPattern=2
+ImageDisplay,myX=300,myY=100,myWidth=100,myHeight=100,myPath=res\2.jpg,myPattern=3
